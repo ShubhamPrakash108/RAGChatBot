@@ -3,6 +3,7 @@
 ## Overview
 This repository contains the implementation of a Retrieval-Augmented Generation (RAG) based ChatBot. The code is built using Python and utilizes Streamlit for creating an interactive web application.
 
+### Note: I have removed the API key. 
 ## Requirements
 Before running the code, ensure that you have the following installed:
 - Python 3.x
